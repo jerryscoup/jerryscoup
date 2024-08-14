@@ -18,8 +18,8 @@
   <img height=200 align="center" src="https://my-stats-43gk.vercel.app/api/top-langs/?username=jerryscoup&hide=html,scss,css&langs_count=8&layout=compact&theme=radical&card_width=150" />
 </a>
 
-<img align="left" height=202 src="https://github-readme-streak-stats-git-main-davids-projects-ad77adcc.vercel.app/?user=jerryscoup&theme=radical"/>
-<img align="left" height=97 src="https://github-profile-trophy.vercel.app/?username=jerryscoup&theme=radical&no-frame=true&title=Stars,Followers,Commits&column=-1"/>
+<img align="center" height=202 src="https://github-readme-streak-stats-git-main-davids-projects-ad77adcc.vercel.app/?user=jerryscoup&theme=radical"/>
+<img align="center" height=97 src="https://github-profile-trophy.vercel.app/?username=jerryscoup&theme=radical&no-frame=true&title=Stars,Followers,Commits&column=-1"/>
 
 
 
@@ -33,8 +33,8 @@
 
 
 <br>
-<h3 align="left">Connect with me:</h3>
-<p align="left">
+<h3 align="center">Connect with me:</h3>
+<p align="center">
 <a href="https://linkedin.com/in/jerryscoup" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="jerryscoup" height="30" width="40" /></a>
 </p>
 

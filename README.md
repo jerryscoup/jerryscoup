@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Prince</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h1 align="center">Hi 👋, I'm jerryscoup(Prince)</h1>
+<h3 align="center">A passionate frontend developer & aspiring Geo-data-scientist and AI/ML enthusiast from India</h3>
 
 
 
@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **javascript,react and nodejs**
 
-- 👯 I’m looking to collaborate on **AI/ML Projects**
+- 👯 I’m looking to collaborate on ** WEB-DEV & AI/ML Projects**
 
 - 📫 How to reach me **workforjerryscoup@gmail.com**
 

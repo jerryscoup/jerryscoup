@@ -19,6 +19,10 @@
 </a>
 
 <img align="center" height=202 src="https://github-readme-streak-stats-git-main-davids-projects-ad77adcc.vercel.app/?user=jerryscoup&theme=radical"/>
+<p> 
+ <a href="https://github.com/Memona-Hafeez">
+ <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=jerryscoup&theme=xcode" style="border-radius: 10px; border: 1.5px solid white"> </a>
+</p> 
 <img align="center" height=97 src="https://github-profile-trophy.vercel.app/?username=jerryscoup&theme=radical&no-frame=true&title=Stars,Followers,Commits&column=-1"/>
 
 

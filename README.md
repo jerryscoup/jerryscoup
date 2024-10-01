@@ -2,7 +2,6 @@
 <h3 align="center">A passionate frontend developer & aspiring Geo-data-scientist and AI/ML enthusiast from India</h3>
 
 
-
 - 🔭 I’m currently working on **web-development projects**
 
 - 🌱 I’m currently learning **javascript,react and nodejs**
@@ -22,18 +21,25 @@
 </p>
 
 <a href="#">
-  <img height=320 align="center" src="https://my-stats-43gk.vercel.app/api?username=jerryscoup&show_icons=true&theme=radical&hide=contribs,issues&show=discussions_answered&rank_icon=github&include_all_commits=true&card_width=150" />
+  <img height=260 align="center" src="https://my-stats-43gk.vercel.app/api?username=jerryscoup&show_icons=true&theme=radical&hide=contribs,issues&show=discussions_answered&rank_icon=github&include_all_commits=true&card_width=150" />
 </a>
+<br>
+<br><br>
+
+
 <a href="#">
-  <img height=320 align="center" src="https://my-stats-43gk.vercel.app/api/top-langs/?username=jerryscoup&hide=html,scss,css&langs_count=8&layout=compact&theme=radical&card_width=150" />
+  <img height=260 align="center" src="https://my-stats-43gk.vercel.app/api/top-langs/?username=jerryscoup&hide=html,scss,css&langs_count=8&layout=compact&theme=radical&card_width=150" />
 </a>
+<br>
+<br><br>
 
 
-<img align="center" height=320 src="https://github-readme-streak-stats-git-main-davids-projects-ad77adcc.vercel.app/?user=jerryscoup&theme=radical"/>
+<img align="center" height=260 src="https://github-readme-streak-stats-git-main-davids-projects-ad77adcc.vercel.app/?user=jerryscoup&theme=radical"/>
 </p> 
 <img align="center" height=200 src="https://github-profile-trophy.vercel.app/?username=jerryscoup&theme=radical&no-frame=true&title=Stars,Followers,Commits&column=-1"/>
 
-
+<br>
+<br><br>
 
 <p> 
  <a href="https://github.com/jerryscoup">

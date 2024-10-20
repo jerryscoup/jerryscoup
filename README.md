@@ -10,16 +10,7 @@
 
 - 📫 How to reach me **workforjerryscoup@gmail.com**
 
-
-
-  <a href=#><img src="contributions.svg"></a>
-
-
-  <p align="center">
-  Visitor count <br>
-  <img src="https://profile-counter.glitch.me/_jerryscoup/count.svg" />
-</p>
-
+  
 <a href="#">
   <img height=260 align="center" src="https://my-stats-43gk.vercel.app/api?username=jerryscoup&show_icons=true&theme=radical&hide=contribs,issues&show=discussions_answered&rank_icon=github&include_all_commits=true&card_width=150" />
 </a>
@@ -40,13 +31,13 @@
 
 <br>
 <br><br>
-
-<p> 
- <a href="https://github.com/jerryscoup">
- <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=jerryscoup&theme=xcode" style="border-radius: 10px; border: 1.5px solid white"> </a>
+<a href=#><img src="contributions.svg"></a>
 
 
-
+  <p align="center">
+  Visitor count <br>
+  <img src="https://profile-counter.glitch.me/_jerryscoup/count.svg" />
+</p>
 
 
 
